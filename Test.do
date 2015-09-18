@@ -4,3 +4,4 @@ y=rnormal()
 gen x=y
 exit
 
+*HOla Italo
